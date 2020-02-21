@@ -316,7 +316,7 @@ Dist: disco
 Name: Disco Dingo
 Version: 19.04
 Date: Thu, 18 April 2019 19:04:00 UTC
-Supported: 0
+Supported: 1
 Description: This is the 19.04 release
 Release-File: http://archive.ubuntu.com/ubuntu/dists/disco/Release
 ReleaseNotes: http://changelogs.ubuntu.com/EOLReleaseAnnouncement
